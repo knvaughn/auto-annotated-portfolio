@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m Kristin, a product-focused Software Engineer.'
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: 'At DealerOn I lead the Front-End pod, created a web component library, '
     styles:
       self:
         height: auto
