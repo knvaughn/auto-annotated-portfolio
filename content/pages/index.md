@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m Kristin, a product-focused Software Engineer.'
-    subtitle: 'At DealerOn I lead the Front-End pod, created a web component library, '
+    subtitle: >-
+      At DealerOn I lead the Front-End development pod, created a web component
+      library, and contributed to 
     styles:
       self:
         height: auto
