@@ -16,8 +16,8 @@ sections:
     title: 'I’m Kristin, a product-focused Software Engineer.'
     subtitle: >-
       At DealerOn I lead the Front-End development pod, build components for an
-      internal web component library, and contribute to multiple Retailing and
-      Personalization projects.
+      internal web component library, and contribute to multiple consumer-facing
+      Retailing and Personalization projects.
     styles:
       self:
         height: auto
